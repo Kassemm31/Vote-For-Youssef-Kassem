@@ -1,0 +1,27 @@
+.title
+{
+    text-align: center;
+    font-family: Comic Sans Ms;
+    text-decoration: underline;
+    color:darkcyan;
+    padding-top:50px
+}
+body
+{
+    background: lightcyan;
+}
+.balaram
+{
+    color: darkgoldenrod;
+    padding-top:10px;
+    font-size:20px;
+    font-family:Comic Sans Ms;
+}
+hr
+{
+    margin-top:50px
+}
+em
+{
+    text-align: center;
+}
